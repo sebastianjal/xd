@@ -1,0 +1,6 @@
+{
+    "name": "My Dev Container",
+    "dockerFile": "Dockerfile",
+    "appPort": [ "8080:8080" ]
+  }
+  
